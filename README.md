@@ -1,5 +1,5 @@
 OOP Course Source Code
-This repository contains the source code for the Object-Oriented Programming (OOP) Course assignments and Homeworks completed during the semester.
+This repository contains the source code for the Object-Oriented Programming (OOP)CS-1004 Course assignments and Homeworks completed during the semester.
 
 Description
 The OOP Course Source Code repository is created to store and organize the C++ source code developed for the OOP Lab assignments and HomeWorks.
