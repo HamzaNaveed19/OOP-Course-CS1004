@@ -10,7 +10,7 @@ The source code in this repository is organized into separate directories for ea
 To use a specific lab assignment or Homework, navigate to its directory and refer to the README file for instructions on how to compile and run the code.
 
 Contributing
-This is a private repository, and external contributions are not accepted.
+This is a public repository, any external contributions are  accepted.
 
 License
 All rights are reserved. Unauthorized copying, modification, or distribution of the code or any part of the repository is strictly prohibited.
