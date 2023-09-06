@@ -5,7 +5,7 @@ Description
 The OOP Course Source Code repository is created to store  and organize the C++ source code developed for the OOP Lab assignments and HomeWorks.
 
 Usage
-The source code in this repository is organized into separate directories for each assignment or Homework. Each directory contains the necessary code files.
+The source  code in this repository is organized into separate directories for each assignment or Homework. Each directory contains the necessary code files.
 
 To use a specific lab assignment or Homework, navigate to its directory and refer to the README file for instructions on how to compile and run the code.
 
